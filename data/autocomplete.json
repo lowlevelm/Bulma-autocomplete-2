@@ -1,12 +1,11 @@
-[
-	{
+[{
 		"text": "bulma.css",
 		"sidetext": "Bulma"
-	}
+	},
 	{
 		"text": "bulma.min.css",
 		"sidetext": "Bulma"
-	}
+	},
 	{
 		"text": "block",
 		"sidetext": "Bulma"
@@ -3024,2691 +3023,2691 @@
 
 
 	{
-	"text": "fa-accessible-icon",
-	"sidetext": "Font Awesome"
+		"text": "fa-accessible-icon",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-amazon-pay",
-	"sidetext": "Font Awesome"
+		"text": "fa-amazon-pay",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-app-store",
-	"sidetext": "Font Awesome"
+		"text": "fa-app-store",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-app-store-ios",
-	"sidetext": "Font Awesome"
+		"text": "fa-app-store-ios",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-apple-pay",
-	"sidetext": "Font Awesome"
+		"text": "fa-apple-pay",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-behance-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-behance-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-black-tie",
-	"sidetext": "Font Awesome"
+		"text": "fa-black-tie",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-bluetooth-b",
-	"sidetext": "Font Awesome"
+		"text": "fa-bluetooth-b",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-cc-amazon-pay",
-	"sidetext": "Font Awesome"
+		"text": "fa-cc-amazon-pay",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-cc-amex",
-	"sidetext": "Font Awesome"
+		"text": "fa-cc-amex",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-cc-apple-pay",
-	"sidetext": "Font Awesome"
+		"text": "fa-cc-apple-pay",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-cc-discover",
-	"sidetext": "Font Awesome"
+		"text": "fa-cc-discover",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-cc-jcb",
-	"sidetext": "Font Awesome"
+		"text": "fa-cc-jcb",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-cc-mastercard",
-	"sidetext": "Font Awesome"
+		"text": "fa-cc-mastercard",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-cc-paypal",
-	"sidetext": "Font Awesome"
+		"text": "fa-cc-paypal",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-cc-stripe",
-	"sidetext": "Font Awesome"
+		"text": "fa-cc-stripe",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-cc-visa",
-	"sidetext": "Font Awesome"
+		"text": "fa-cc-visa",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-creative-commons",
-	"sidetext": "Font Awesome"
+		"text": "fa-creative-commons",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-creative-commons-by",
-	"sidetext": "Font Awesome"
+		"text": "fa-creative-commons-by",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-creative-commons-nc",
-	"sidetext": "Font Awesome"
+		"text": "fa-creative-commons-nc",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-creative-commons-nc-eu",
-	"sidetext": "Font Awesome"
+		"text": "fa-creative-commons-nc-eu",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-creative-commons-nc-jp",
-	"sidetext": "Font Awesome"
+		"text": "fa-creative-commons-nc-jp",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-creative-commons-nd",
-	"sidetext": "Font Awesome"
+		"text": "fa-creative-commons-nd",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-creative-commons-pd",
-	"sidetext": "Font Awesome"
+		"text": "fa-creative-commons-pd",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-creative-commons-pd-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-creative-commons-pd-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-creative-commons-remix",
-	"sidetext": "Font Awesome"
+		"text": "fa-creative-commons-remix",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-creative-commons-sa",
-	"sidetext": "Font Awesome"
+		"text": "fa-creative-commons-sa",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-creative-commons-sampling",
-	"sidetext": "Font Awesome"
+		"text": "fa-creative-commons-sampling",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-creative-commons-sampling-plus",
-	"sidetext": "Font Awesome"
+		"text": "fa-creative-commons-sampling-plus",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-creative-commons-share",
-	"sidetext": "Font Awesome"
+		"text": "fa-creative-commons-share",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-css3-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-css3-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-d-and-d",
-	"sidetext": "Font Awesome"
+		"text": "fa-d-and-d",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-digital-ocean",
-	"sidetext": "Font Awesome"
+		"text": "fa-digital-ocean",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-dribbble-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-dribbble-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-facebook-f",
-	"sidetext": "Font Awesome"
+		"text": "fa-facebook-f",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-facebook-messenger",
-	"sidetext": "Font Awesome"
+		"text": "fa-facebook-messenger",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-facebook-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-facebook-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-first-order",
-	"sidetext": "Font Awesome"
+		"text": "fa-first-order",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-first-order-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-first-order-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-font-awesome",
-	"sidetext": "Font Awesome"
+		"text": "fa-font-awesome",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-font-awesome-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-font-awesome-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-font-awesome-flag",
-	"sidetext": "Font Awesome"
+		"text": "fa-font-awesome-flag",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-font-awesome-logo-full",
-	"sidetext": "Font Awesome"
+		"text": "fa-font-awesome-logo-full",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-fonticons-fi",
-	"sidetext": "Font Awesome"
+		"text": "fa-fonticons-fi",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-fort-awesome",
-	"sidetext": "Font Awesome"
+		"text": "fa-fort-awesome",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-fort-awesome-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-fort-awesome-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-free-code-camp",
-	"sidetext": "Font Awesome"
+		"text": "fa-free-code-camp",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-galactic-republic",
-	"sidetext": "Font Awesome"
+		"text": "fa-galactic-republic",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-galactic-senate",
-	"sidetext": "Font Awesome"
+		"text": "fa-galactic-senate",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-get-pocket",
-	"sidetext": "Font Awesome"
+		"text": "fa-get-pocket",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-gg-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-gg-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-git-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-git-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-github-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-github-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-github-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-github-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-glide-g",
-	"sidetext": "Font Awesome"
+		"text": "fa-glide-g",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-goodreads-g",
-	"sidetext": "Font Awesome"
+		"text": "fa-goodreads-g",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-google-drive",
-	"sidetext": "Font Awesome"
+		"text": "fa-google-drive",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-google-play",
-	"sidetext": "Font Awesome"
+		"text": "fa-google-play",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-google-plus",
-	"sidetext": "Font Awesome"
+		"text": "fa-google-plus",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-google-plus-g",
-	"sidetext": "Font Awesome"
+		"text": "fa-google-plus-g",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-google-plus-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-google-plus-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-google-wallet",
-	"sidetext": "Font Awesome"
+		"text": "fa-google-wallet",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hacker-news",
-	"sidetext": "Font Awesome"
+		"text": "fa-hacker-news",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hacker-news-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-hacker-news-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hire-a-helper",
-	"sidetext": "Font Awesome"
+		"text": "fa-hire-a-helper",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-internet-explorer",
-	"sidetext": "Font Awesome"
+		"text": "fa-internet-explorer",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-itunes-note",
-	"sidetext": "Font Awesome"
+		"text": "fa-itunes-note",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-jedi-order",
-	"sidetext": "Font Awesome"
+		"text": "fa-jedi-order",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-js-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-js-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-kickstarter-k",
-	"sidetext": "Font Awesome"
+		"text": "fa-kickstarter-k",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-lastfm-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-lastfm-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-linkedin-in",
-	"sidetext": "Font Awesome"
+		"text": "fa-linkedin-in",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-medium-m",
-	"sidetext": "Font Awesome"
+		"text": "fa-medium-m",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-nintendo-switch",
-	"sidetext": "Font Awesome"
+		"text": "fa-nintendo-switch",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-node-js",
-	"sidetext": "Font Awesome"
+		"text": "fa-node-js",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-odnoklassniki-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-odnoklassniki-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-old-republic",
-	"sidetext": "Font Awesome"
+		"text": "fa-old-republic",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-optin-monster",
-	"sidetext": "Font Awesome"
+		"text": "fa-optin-monster",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-phoenix-framework",
-	"sidetext": "Font Awesome"
+		"text": "fa-phoenix-framework",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-phoenix-squadron",
-	"sidetext": "Font Awesome"
+		"text": "fa-phoenix-squadron",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-pied-piper",
-	"sidetext": "Font Awesome"
+		"text": "fa-pied-piper",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-pied-piper-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-pied-piper-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-pied-piper-hat",
-	"sidetext": "Font Awesome"
+		"text": "fa-pied-piper-hat",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-pied-piper-pp",
-	"sidetext": "Font Awesome"
+		"text": "fa-pied-piper-pp",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-pinterest-p",
-	"sidetext": "Font Awesome"
+		"text": "fa-pinterest-p",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-pinterest-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-pinterest-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-product-hunt",
-	"sidetext": "Font Awesome"
+		"text": "fa-product-hunt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-r-project",
-	"sidetext": "Font Awesome"
+		"text": "fa-r-project",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-red-river",
-	"sidetext": "Font Awesome"
+		"text": "fa-red-river",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-reddit-alien",
-	"sidetext": "Font Awesome"
+		"text": "fa-reddit-alien",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-reddit-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-reddit-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-slack-hash",
-	"sidetext": "Font Awesome"
+		"text": "fa-slack-hash",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-snapchat-ghost",
-	"sidetext": "Font Awesome"
+		"text": "fa-snapchat-ghost",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-snapchat-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-snapchat-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-stack-exchange",
-	"sidetext": "Font Awesome"
+		"text": "fa-stack-exchange",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-stack-overflow",
-	"sidetext": "Font Awesome"
+		"text": "fa-stack-overflow",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-steam-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-steam-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-steam-symbol",
-	"sidetext": "Font Awesome"
+		"text": "fa-steam-symbol",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sticker-mule",
-	"sidetext": "Font Awesome"
+		"text": "fa-sticker-mule",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-stripe-s",
-	"sidetext": "Font Awesome"
+		"text": "fa-stripe-s",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-stumbleupon-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-stumbleupon-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-telegram-plane",
-	"sidetext": "Font Awesome"
+		"text": "fa-telegram-plane",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-tencent-weibo",
-	"sidetext": "Font Awesome"
+		"text": "fa-tencent-weibo",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-the-red-yeti",
-	"sidetext": "Font Awesome"
+		"text": "fa-the-red-yeti",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-trade-federation",
-	"sidetext": "Font Awesome"
+		"text": "fa-trade-federation",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-tumblr-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-tumblr-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-twitter-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-twitter-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-viadeo-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-viadeo-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-vimeo-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-vimeo-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-vimeo-v",
-	"sidetext": "Font Awesome"
+		"text": "fa-vimeo-v",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-whatsapp-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-whatsapp-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-wikipedia-w",
-	"sidetext": "Font Awesome"
+		"text": "fa-wikipedia-w",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-wolf-pack-battalion",
-	"sidetext": "Font Awesome"
+		"text": "fa-wolf-pack-battalion",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-wordpress-simple",
-	"sidetext": "Font Awesome"
+		"text": "fa-wordpress-simple",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-xing-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-xing-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-y-combinator",
-	"sidetext": "Font Awesome"
+		"text": "fa-y-combinator",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-yandex-international",
-	"sidetext": "Font Awesome"
+		"text": "fa-yandex-international",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-youtube-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-youtube-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-address-card",
-	"sidetext": "Font Awesome"
+		"text": "fa-address-card",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-alt-circle-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-alt-circle-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-alt-circle-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-alt-circle-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-alt-circle-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-alt-circle-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-alt-circle-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-alt-circle-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-bell-slash",
-	"sidetext": "Font Awesome"
+		"text": "fa-bell-slash",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-calendar-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-calendar-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-calendar-check",
-	"sidetext": "Font Awesome"
+		"text": "fa-calendar-check",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-calendar-minus",
-	"sidetext": "Font Awesome"
+		"text": "fa-calendar-minus",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-calendar-plus",
-	"sidetext": "Font Awesome"
+		"text": "fa-calendar-plus",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-calendar-times",
-	"sidetext": "Font Awesome"
+		"text": "fa-calendar-times",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-caret-square-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-caret-square-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-caret-square-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-caret-square-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-caret-square-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-caret-square-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-caret-square-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-caret-square-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chart-bar",
-	"sidetext": "Font Awesome"
+		"text": "fa-chart-bar",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-check-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-check-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-check-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-check-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-closed-captioning",
-	"sidetext": "Font Awesome"
+		"text": "fa-closed-captioning",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-comment-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-comment-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-comment-dots",
-	"sidetext": "Font Awesome"
+		"text": "fa-comment-dots",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-credit-card",
-	"sidetext": "Font Awesome"
+		"text": "fa-credit-card",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-dot-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-dot-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-envelope-open",
-	"sidetext": "Font Awesome"
+		"text": "fa-envelope-open",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-eye-slash",
-	"sidetext": "Font Awesome"
+		"text": "fa-eye-slash",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-archive",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-archive",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-audio",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-audio",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-code",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-code",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-excel",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-excel",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-image",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-image",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-pdf",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-pdf",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-powerpoint",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-powerpoint",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-video",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-video",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-word",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-word",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-folder-open",
-	"sidetext": "Font Awesome"
+		"text": "fa-folder-open",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-font-awesome-logo-full",
-	"sidetext": "Font Awesome"
+		"text": "fa-font-awesome-logo-full",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-frown-open",
-	"sidetext": "Font Awesome"
+		"text": "fa-frown-open",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-beam",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-beam",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-beam-sweat",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-beam-sweat",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-hearts",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-hearts",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-squint",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-squint",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-squint-tears",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-squint-tears",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-stars",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-stars",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-tears",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-tears",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-tongue",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-tongue",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-tongue-squint",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-tongue-squint",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-tongue-wink",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-tongue-wink",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-wink",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-wink",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-lizard",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-lizard",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-paper",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-paper",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-peace",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-peace",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-point-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-point-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-point-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-point-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-point-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-point-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-point-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-point-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-pointer",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-pointer",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-rock",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-rock",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-scissors",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-scissors",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-spock",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-spock",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-id-badge",
-	"sidetext": "Font Awesome"
+		"text": "fa-id-badge",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-id-card",
-	"sidetext": "Font Awesome"
+		"text": "fa-id-card",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-kiss-beam",
-	"sidetext": "Font Awesome"
+		"text": "fa-kiss-beam",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-kiss-wink-heart",
-	"sidetext": "Font Awesome"
+		"text": "fa-kiss-wink-heart",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-laugh-beam",
-	"sidetext": "Font Awesome"
+		"text": "fa-laugh-beam",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-laugh-squint",
-	"sidetext": "Font Awesome"
+		"text": "fa-laugh-squint",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-laugh-wink",
-	"sidetext": "Font Awesome"
+		"text": "fa-laugh-wink",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-life-ring",
-	"sidetext": "Font Awesome"
+		"text": "fa-life-ring",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-list-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-list-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-meh-blank",
-	"sidetext": "Font Awesome"
+		"text": "fa-meh-blank",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-meh-rolling-eyes",
-	"sidetext": "Font Awesome"
+		"text": "fa-meh-rolling-eyes",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-minus-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-minus-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-money-bill-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-money-bill-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-object-group",
-	"sidetext": "Font Awesome"
+		"text": "fa-object-group",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-object-ungroup",
-	"sidetext": "Font Awesome"
+		"text": "fa-object-ungroup",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-paper-plane",
-	"sidetext": "Font Awesome"
+		"text": "fa-paper-plane",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-pause-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-pause-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-play-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-play-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-plus-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-plus-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-question-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-question-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sad-cry",
-	"sidetext": "Font Awesome"
+		"text": "fa-sad-cry",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sad-tear",
-	"sidetext": "Font Awesome"
+		"text": "fa-sad-tear",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-share-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-share-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-smile-beam",
-	"sidetext": "Font Awesome"
+		"text": "fa-smile-beam",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-smile-wink",
-	"sidetext": "Font Awesome"
+		"text": "fa-smile-wink",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-star-half",
-	"sidetext": "Font Awesome"
+		"text": "fa-star-half",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sticky-note",
-	"sidetext": "Font Awesome"
+		"text": "fa-sticky-note",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-stop-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-stop-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-thumbs-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-thumbs-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-thumbs-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-thumbs-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-times-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-times-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-trash-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-trash-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-window-close",
-	"sidetext": "Font Awesome"
+		"text": "fa-window-close",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-window-maximize",
-	"sidetext": "Font Awesome"
+		"text": "fa-window-maximize",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-window-minimize",
-	"sidetext": "Font Awesome"
+		"text": "fa-window-minimize",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-window-restore",
-	"sidetext": "Font Awesome"
+		"text": "fa-window-restore",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-address-book",
-	"sidetext": "Font Awesome"
+		"text": "fa-address-book",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-address-card",
-	"sidetext": "Font Awesome"
+		"text": "fa-address-card",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-air-freshener",
-	"sidetext": "Font Awesome"
+		"text": "fa-air-freshener",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-align-center",
-	"sidetext": "Font Awesome"
+		"text": "fa-align-center",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-align-justify",
-	"sidetext": "Font Awesome"
+		"text": "fa-align-justify",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-align-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-align-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-align-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-align-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-american-sign-language-interpreting",
-	"sidetext": "Font Awesome"
+		"text": "fa-american-sign-language-interpreting",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-angle-double-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-angle-double-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-angle-double-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-angle-double-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-angle-double-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-angle-double-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-angle-double-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-angle-double-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-angle-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-angle-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-angle-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-angle-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-angle-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-angle-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-angle-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-angle-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-apple-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-apple-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-alt-circle-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-alt-circle-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-alt-circle-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-alt-circle-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-alt-circle-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-alt-circle-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-alt-circle-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-alt-circle-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-circle-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-circle-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-circle-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-circle-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-circle-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-circle-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-circle-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-circle-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrow-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrow-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrows-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrows-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrows-alt-h",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrows-alt-h",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-arrows-alt-v",
-	"sidetext": "Font Awesome"
+		"text": "fa-arrows-alt-v",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-assistive-listening-systems",
-	"sidetext": "Font Awesome"
+		"text": "fa-assistive-listening-systems",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-audio-description",
-	"sidetext": "Font Awesome"
+		"text": "fa-audio-description",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-balance-scale",
-	"sidetext": "Font Awesome"
+		"text": "fa-balance-scale",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-band-aid",
-	"sidetext": "Font Awesome"
+		"text": "fa-band-aid",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-baseball-ball",
-	"sidetext": "Font Awesome"
+		"text": "fa-baseball-ball",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-basketball-ball",
-	"sidetext": "Font Awesome"
+		"text": "fa-basketball-ball",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-battery-empty",
-	"sidetext": "Font Awesome"
+		"text": "fa-battery-empty",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-battery-full",
-	"sidetext": "Font Awesome"
+		"text": "fa-battery-full",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-battery-half",
-	"sidetext": "Font Awesome"
+		"text": "fa-battery-half",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-battery-quarter",
-	"sidetext": "Font Awesome"
+		"text": "fa-battery-quarter",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-battery-three-quarters",
-	"sidetext": "Font Awesome"
+		"text": "fa-battery-three-quarters",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-bell-slash",
-	"sidetext": "Font Awesome"
+		"text": "fa-bell-slash",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-bezier-curve",
-	"sidetext": "Font Awesome"
+		"text": "fa-bezier-curve",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-birthday-cake",
-	"sidetext": "Font Awesome"
+		"text": "fa-birthday-cake",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-book-open",
-	"sidetext": "Font Awesome"
+		"text": "fa-book-open",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-book-reader",
-	"sidetext": "Font Awesome"
+		"text": "fa-book-reader",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-bowling-ball",
-	"sidetext": "Font Awesome"
+		"text": "fa-bowling-ball",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-box-open",
-	"sidetext": "Font Awesome"
+		"text": "fa-box-open",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-briefcase-medical",
-	"sidetext": "Font Awesome"
+		"text": "fa-briefcase-medical",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-broadcast-tower",
-	"sidetext": "Font Awesome"
+		"text": "fa-broadcast-tower",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-bus-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-bus-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-business-time",
-	"sidetext": "Font Awesome"
+		"text": "fa-business-time",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-calendar-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-calendar-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-calendar-check",
-	"sidetext": "Font Awesome"
+		"text": "fa-calendar-check",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-zcalendar-minus",
-	"sidetext": "Font Awesome"
+		"text": "fa-zcalendar-minus",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-calendar-plus",
-	"sidetext": "Font Awesome"
+		"text": "fa-calendar-plus",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-calendar-times",
-	"sidetext": "Font Awesome"
+		"text": "fa-calendar-times",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-camera-retro",
-	"sidetext": "Font Awesome"
+		"text": "fa-camera-retro",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-car-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-car-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-car-battery",
-	"sidetext": "Font Awesome"
+		"text": "fa-car-battery",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-car-crash",
-	"sidetext": "Font Awesome"
+		"text": "fa-car-crash",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-car-side",
-	"sidetext": "Font Awesome"
+		"text": "fa-car-side",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-caret-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-caret-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-caret-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-caret-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-caret-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-caret-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-caret-square-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-caret-square-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-caret-square-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-caret-square-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-caret-square-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-caret-square-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-caret-square-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-caret-square-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-caret-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-caret-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-cart-arrow-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-cart-arrow-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-cart-plus",
-	"sidetext": "Font Awesome"
+		"text": "fa-cart-plus",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chalkboard-teacher",
-	"sidetext": "Font Awesome"
+		"text": "fa-chalkboard-teacher",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-charging-station",
-	"sidetext": "Font Awesome"
+		"text": "fa-charging-station",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chart-area",
-	"sidetext": "Font Awesome"
+		"text": "fa-chart-area",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chart-bar",
-	"sidetext": "Font Awesome"
+		"text": "fa-chart-bar",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chart-line",
-	"sidetext": "Font Awesome"
+		"text": "fa-chart-line",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chart-pie",
-	"sidetext": "Font Awesome"
+		"text": "fa-chart-pie",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-check-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-check-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-check-double",
-	"sidetext": "Font Awesome"
+		"text": "fa-check-double",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-check-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-check-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chess-bishop",
-	"sidetext": "Font Awesome"
+		"text": "fa-chess-bishop",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chess-board",
-	"sidetext": "Font Awesome"
+		"text": "fa-chess-board",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chess-king",
-	"sidetext": "Font Awesome"
+		"text": "fa-chess-king",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chess-knight",
-	"sidetext": "Font Awesome"
+		"text": "fa-chess-knight",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chess-pawn",
-	"sidetext": "Font Awesome"
+		"text": "fa-chess-pawn",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chess-queen",
-	"sidetext": "Font Awesome"
+		"text": "fa-chess-queen",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chess-rook",
-	"sidetext": "Font Awesome"
+		"text": "fa-chess-rook",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chevron-circle-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-chevron-circle-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chevron-circle-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-chevron-circle-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chevron-circle-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-chevron-circle-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chevron-circle-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-chevron-circle-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chevron-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-chevron-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chevron-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-chevron-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chevron-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-chevron-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-chevron-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-chevron-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-circle-notch",
-	"sidetext": "Font Awesome"
+		"text": "fa-circle-notch",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-clipboard-check",
-	"sidetext": "Font Awesome"
+		"text": "fa-clipboard-check",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-clipboard-list",
-	"sidetext": "Font Awesome"
+		"text": "fa-clipboard-list",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-closed-captioning",
-	"sidetext": "Font Awesome"
+		"text": "fa-closed-captioning",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-cloud-download-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-cloud-download-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-cloud-upload-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-cloud-upload-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-code-branch",
-	"sidetext": "Font Awesome"
+		"text": "fa-code-branch",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-comment-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-comment-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-comment-dollar",
-	"sidetext": "Font Awesome"
+		"text": "fa-comment-dollar",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-comment-dots",
-	"sidetext": "Font Awesome"
+		"text": "fa-comment-dots",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-comment-slash",
-	"sidetext": "Font Awesome"
+		"text": "fa-comment-slash",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-comments-dollar",
-	"sidetext": "Font Awesome"
+		"text": "fa-comments-dollar",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-compact-disc",
-	"sidetext": "Font Awesome"
+		"text": "fa-compact-disc",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-concierge-bell",
-	"sidetext": "Font Awesome"
+		"text": "fa-concierge-bell",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-cookie-bite",
-	"sidetext": "Font Awesome"
+		"text": "fa-cookie-bite",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-credit-card",
-	"sidetext": "Font Awesome"
+		"text": "fa-credit-card",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-crop-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-crop-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-dice-five",
-	"sidetext": "Font Awesome"
+		"text": "fa-dice-five",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-dice-four",
-	"sidetext": "Font Awesome"
+		"text": "fa-dice-four",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-dice-one",
-	"sidetext": "Font Awesome"
+		"text": "fa-dice-one",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-dice-six",
-	"sidetext": "Font Awesome"
+		"text": "fa-dice-six",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-dice-three",
-	"sidetext": "Font Awesome"
+		"text": "fa-dice-three",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-dice-two",
-	"sidetext": "Font Awesome"
+		"text": "fa-dice-two",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-digital-tachograph",
-	"sidetext": "Font Awesome"
+		"text": "fa-digital-tachograph",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-dollar-sign",
-	"sidetext": "Font Awesome"
+		"text": "fa-dollar-sign",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-dolly-flatbed",
-	"sidetext": "Font Awesome"
+		"text": "fa-dolly-flatbed",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-door-closed",
-	"sidetext": "Font Awesome"
+		"text": "fa-door-closed",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-door-open",
-	"sidetext": "Font Awesome"
+		"text": "fa-door-open",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-dot-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-dot-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-drafting-compass",
-	"sidetext": "Font Awesome"
+		"text": "fa-drafting-compass",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-draw-polygon",
-	"sidetext": "Font Awesome"
+		"text": "fa-draw-polygon",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-drum-steelpan",
-	"sidetext": "Font Awesome"
+		"text": "fa-drum-steelpan",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-ellipsis-h",
-	"sidetext": "Font Awesome"
+		"text": "fa-ellipsis-h",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-ellipsis-v",
-	"sidetext": "Font Awesome"
+		"text": "fa-ellipsis-v",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-envelope-open",
-	"sidetext": "Font Awesome"
+		"text": "fa-envelope-open",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-envelope-open-text",
-	"sidetext": "Font Awesome"
+		"text": "fa-envelope-open-text",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-envelope-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-envelope-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-euro-sign",
-	"sidetext": "Font Awesome"
+		"text": "fa-euro-sign",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-exchange-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-exchange-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-exclamation-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-exclamation-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-exclamation-triangle",
-	"sidetext": "Font Awesome"
+		"text": "fa-exclamation-triangle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-expand-arrows-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-expand-arrows-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-external-link-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-external-link-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-external-link-square-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-external-link-square-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-eye-dropper",
-	"sidetext": "Font Awesome"
+		"text": "fa-eye-dropper",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-eye-slash",
-	"sidetext": "Font Awesome"
+		"text": "fa-eye-slash",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-fast-backward",
-	"sidetext": "Font Awesome"
+		"text": "fa-fast-backward",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-fast-forward",
-	"sidetext": "Font Awesome"
+		"text": "fa-fast-forward",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-feather-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-feather-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-fighter-jet",
-	"sidetext": "Font Awesome"
+		"text": "fa-fighter-jet",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-archive",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-archive",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-audio",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-audio",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-code",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-code",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-contract",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-contract",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-download",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-download",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-excel",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-excel",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-export",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-export",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-image",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-image",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-import",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-import",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-invoice",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-invoice",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-invoice-dollar",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-invoice-dollar",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-medical",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-medical",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-medical-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-medical-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-pdf",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-pdf",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-powerpoint",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-powerpoint",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-prescription",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-prescription",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-signature",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-signature",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-upload",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-upload",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-video",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-video",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-file-word",
-	"sidetext": "Font Awesome"
+		"text": "fa-file-word",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-fill-drip",
-	"sidetext": "Font Awesome"
+		"text": "fa-fill-drip",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-fire-extinguisher",
-	"sidetext": "Font Awesome"
+		"text": "fa-fire-extinguisher",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-first-aid",
-	"sidetext": "Font Awesome"
+		"text": "fa-first-aid",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-flag-checkered",
-	"sidetext": "Font Awesome"
+		"text": "fa-flag-checkered",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-folder-minus",
-	"sidetext": "Font Awesome"
+		"text": "fa-folder-minus",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-folder-open",
-	"sidetext": "Font Awesome"
+		"text": "fa-folder-open",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-folder-plus",
-	"sidetext": "Font Awesome"
+		"text": "fa-folder-plus",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-font-awesome-logo-full",
-	"sidetext": "Font Awesome"
+		"text": "fa-font-awesome-logo-full",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-football-ball",
-	"sidetext": "Font Awesome"
+		"text": "fa-football-ball",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-frown-open",
-	"sidetext": "Font Awesome"
+		"text": "fa-frown-open",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-funnel-dollar",
-	"sidetext": "Font Awesome"
+		"text": "fa-funnel-dollar",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-gas-pump",
-	"sidetext": "Font Awesome"
+		"text": "fa-gas-pump",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-glass-martini",
-	"sidetext": "Font Awesome"
+		"text": "fa-glass-martini",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-glass-martini-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-glass-martini-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-globe-africa",
-	"sidetext": "Font Awesome"
+		"text": "fa-globe-africa",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-globe-americas",
-	"sidetext": "Font Awesome"
+		"text": "fa-globe-americas",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-globe-asia",
-	"sidetext": "Font Awesome"
+		"text": "fa-globe-asia",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-golf-ball",
-	"sidetext": "Font Awesome"
+		"text": "fa-golf-ball",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-graduation-cap",
-	"sidetext": "Font Awesome"
+		"text": "fa-graduation-cap",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-greater-than",
-	"sidetext": "Font Awesome"
+		"text": "fa-greater-than",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-greater-than-equal",
-	"sidetext": "Font Awesome"
+		"text": "fa-greater-than-equal",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-beam",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-beam",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-beam-sweat",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-beam-sweat",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-hearts",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-hearts",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-squint",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-squint",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-squint-tears",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-squint-tears",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-stars",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-stars",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-tears",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-tears",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-tongue",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-tongue",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-tongue-squint",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-tongue-squint",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-tongue-wink",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-tongue-wink",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grin-wink",
-	"sidetext": "Font Awesome"
+		"text": "fa-grin-wink",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grip-horizontal",
-	"sidetext": "Font Awesome"
+		"text": "fa-grip-horizontal",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-grip-vertical",
-	"sidetext": "Font Awesome"
+		"text": "fa-grip-vertical",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-h-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-h-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-holding",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-holding",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-holding-heart",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-holding-heart",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-holding-usd",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-holding-usd",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-lizard",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-lizard",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-paper",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-paper",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-peace",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-peace",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-point-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-point-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-point-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-point-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-point-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-point-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-point-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-point-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-pointer",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-pointer",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-rock",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-rock",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-scissors",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-scissors",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hand-spock",
-	"sidetext": "Font Awesome"
+		"text": "fa-hand-spock",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hands-helping",
-	"sidetext": "Font Awesome"
+		"text": "fa-hands-helping",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-headphones-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-headphones-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hockey-puck",
-	"sidetext": "Font Awesome"
+		"text": "fa-hockey-puck",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hospital-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-hospital-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hospital-symbol",
-	"sidetext": "Font Awesome"
+		"text": "fa-hospital-symbol",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hot-tub",
-	"sidetext": "Font Awesome"
+		"text": "fa-hot-tub",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hourglass-end",
-	"sidetext": "Font Awesome"
+		"text": "fa-hourglass-end",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hourglass-half",
-	"sidetext": "Font Awesome"
+		"text": "fa-hourglass-half",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-hourglass-start",
-	"sidetext": "Font Awesome"
+		"text": "fa-hourglass-start",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-i-cursor",
-	"sidetext": "Font Awesome"
+		"text": "fa-i-cursor",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-id-badge",
-	"sidetext": "Font Awesome"
+		"text": "fa-id-badge",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-id-card",
-	"sidetext": "Font Awesome"
+		"text": "fa-id-card",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-id-card-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-id-card-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-info-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-info-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-journal-whills",
-	"sidetext": "Font Awesome"
+		"text": "fa-journal-whills",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-kiss-beam",
-	"sidetext": "Font Awesome"
+		"text": "fa-kiss-beam",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-kiss-wink-heart",
-	"sidetext": "Font Awesome"
+		"text": "fa-kiss-wink-heart",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-kiwi-birdlaptop-code",
-	"sidetext": "Font Awesome"
+		"text": "fa-kiwi-birdlaptop-code",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-laugh-beam",
-	"sidetext": "Font Awesome"
+		"text": "fa-laugh-beam",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-laugh-squint",
-	"sidetext": "Font Awesome"
+		"text": "fa-laugh-squint",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-laugh-wink",
-	"sidetext": "Font Awesome"
+		"text": "fa-laugh-wink",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-layer-group",
-	"sidetext": "Font Awesome"
+		"text": "fa-layer-group",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-less-than",
-	"sidetext": "Font Awesome"
+		"text": "fa-less-than",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-less-than-equal",
-	"sidetext": "Font Awesome"
+		"text": "fa-less-than-equal",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-level-down-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-level-down-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-level-up-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-level-up-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-life-ring",
-	"sidetext": "Font Awesome"
+		"text": "fa-life-ring",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-lira-sign",
-	"sidetext": "Font Awesome"
+		"text": "fa-lira-sign",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-list-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-list-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-list-ol",
-	"sidetext": "Font Awesome"
+		"text": "fa-list-ol",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-list-ul",
-	"sidetext": "Font Awesome"
+		"text": "fa-list-ul",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-location-arrow",
-	"sidetext": "Font Awesome"
+		"text": "fa-location-arrow",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-lock-open",
-	"sidetext": "Font Awesome"
+		"text": "fa-lock-open",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-long-arrow-alt-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-long-arrow-alt-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-long-arrow-alt-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-long-arrow-alt-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-long-arrow-alt-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-long-arrow-alt-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-long-arrow-alt-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-long-arrow-alt-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-low-vision",
-	"sidetext": "Font Awesome"
+		"text": "fa-low-vision",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-luggage-cart",
-	"sidetext": "Font Awesome"
+		"text": "fa-luggage-cart",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-mail-bulk",
-	"sidetext": "Font Awesome"
+		"text": "fa-mail-bulk",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-map-marked",
-	"sidetext": "Font Awesome"
+		"text": "fa-map-marked",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-map-marked-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-map-marked-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-map-marker",
-	"sidetext": "Font Awesome"
+		"text": "fa-map-marker",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-map-marker-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-map-marker-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-map-pin",
-	"sidetext": "Font Awesome"
+		"text": "fa-map-pin",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-map-signs",
-	"sidetext": "Font Awesome"
+		"text": "fa-map-signs",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-mars-double",
-	"sidetext": "Font Awesome"
+		"text": "fa-mars-double",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-mars-stroke",
-	"sidetext": "Font Awesome"
+		"text": "fa-mars-stroke",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-mars-stroke-h",
-	"sidetext": "Font Awesome"
+		"text": "fa-mars-stroke-h",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-mars-stroke-v",
-	"sidetext": "Font Awesome"
+		"text": "fa-mars-stroke-v",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-meh-blank",
-	"sidetext": "Font Awesome"
+		"text": "fa-meh-blank",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-meh-rolling-eyes",
-	"sidetext": "Font Awesome"
+		"text": "fa-meh-rolling-eyes",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-microphone-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-microphone-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-microphone-alt-slash",
-	"sidetext": "Font Awesome"
+		"text": "fa-microphone-alt-slash",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-microphone-slash",
-	"sidetext": "Font Awesome"
+		"text": "fa-microphone-slash",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-minus-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-minus-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-minus-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-minus-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-mobile-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-mobile-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-money-bill",
-	"sidetext": "Font Awesome"
+		"text": "fa-money-bill",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-money-bill-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-money-bill-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-money-bill-wave",
-	"sidetext": "Font Awesome"
+		"text": "fa-money-bill-wave",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-money-bill-wave-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-money-bill-wave-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-money-check",
-	"sidetext": "Font Awesome"
+		"text": "fa-money-check",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-money-check-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-money-check-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-mortar-pestle",
-	"sidetext": "Font Awesome"
+		"text": "fa-mortar-pestle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-mouse-pointer",
-	"sidetext": "Font Awesome"
+		"text": "fa-mouse-pointer",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-not-equal",
-	"sidetext": "Font Awesome"
+		"text": "fa-not-equal",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-notes-medical",
-	"sidetext": "Font Awesome"
+		"text": "fa-notes-medical",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-object-group",
-	"sidetext": "Font Awesome"
+		"text": "fa-object-group",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-object-ungroup",
-	"sidetext": "Font Awesome"
+		"text": "fa-object-ungroup",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-oil-can",
-	"sidetext": "Font Awesome"
+		"text": "fa-oil-can",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-paint-brush",
-	"sidetext": "Font Awesome"
+		"text": "fa-paint-brush",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-paint-roller",
-	"sidetext": "Font Awesome"
+		"text": "fa-paint-roller",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-paper-plane",
-	"sidetext": "Font Awesome"
+		"text": "fa-paper-plane",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-parachute-box",
-	"sidetext": "Font Awesome"
+		"text": "fa-parachute-box",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-pause-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-pause-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-pen-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-pen-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-pen-fancy",
-	"sidetext": "Font Awesome"
+		"text": "fa-pen-fancy",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-pen-nib",
-	"sidetext": "Font Awesome"
+		"text": "fa-pen-nib",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-pen-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-pen-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-pencil-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-pencil-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-pencil-ruler",
-	"sidetext": "Font Awesome"
+		"text": "fa-pencil-ruler",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-people-carry",
-	"sidetext": "Font Awesome"
+		"text": "fa-people-carry",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-phone-slash",
-	"sidetext": "Font Awesome"
+		"text": "fa-phone-slash",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-phone-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-phone-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-phone-volume",
-	"sidetext": "Font Awesome"
+		"text": "fa-phone-volume",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-piggy-bank",
-	"sidetext": "Font Awesome"
+		"text": "fa-piggy-bank",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-place-of-worship",
-	"sidetext": "Font Awesome"
+		"text": "fa-place-of-worship",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-plane-arrival",
-	"sidetext": "Font Awesome"
+		"text": "fa-plane-arrival",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-plane-departure",
-	"sidetext": "Font Awesome"
+		"text": "fa-plane-departure",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-play-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-play-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-plus-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-plus-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-plus-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-plus-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-poll-h",
-	"sidetext": "Font Awesome"
+		"text": "fa-poll-h",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-pound-sign",
-	"sidetext": "Font Awesome"
+		"text": "fa-pound-sign",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-power-off",
-	"sidetext": "Font Awesome"
+		"text": "fa-power-off",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-praying-hands",
-	"sidetext": "Font Awesome"
+		"text": "fa-praying-hands",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-prescription-bottle",
-	"sidetext": "Font Awesome"
+		"text": "fa-prescription-bottle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-prescription-bottle-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-prescription-bottle-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-project-diagram",
-	"sidetext": "Font Awesome"
+		"text": "fa-project-diagram",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-puzzle-piece",
-	"sidetext": "Font Awesome"
+		"text": "fa-puzzle-piece",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-question-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-question-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-quote-left",
-	"sidetext": "Font Awesome"
+		"text": "fa-quote-left",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-quote-right",
-	"sidetext": "Font Awesome"
+		"text": "fa-quote-right",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-redo-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-redo-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-reply-all",
-	"sidetext": "Font Awesome"
+		"text": "fa-reply-all",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-rss-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-rss-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-ruble-sign",
-	"sidetext": "Font Awesome"
+		"text": "fa-ruble-sign",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-ruler-combined",
-	"sidetext": "Font Awesome"
+		"text": "fa-ruler-combined",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-ruler-horizontal",
-	"sidetext": "Font Awesome"
+		"text": "fa-ruler-horizontal",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-ruler-vertical",
-	"sidetext": "Font Awesome"
+		"text": "fa-ruler-vertical",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-rupee-sign",
-	"sidetext": "Font Awesome"
+		"text": "fa-rupee-sign",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sad-cry",
-	"sidetext": "Font Awesome"
+		"text": "fa-sad-cry",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sad-tear",
-	"sidetext": "Font Awesome"
+		"text": "fa-sad-tear",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-search-dollar",
-	"sidetext": "Font Awesome"
+		"text": "fa-search-dollar",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-search-location",
-	"sidetext": "Font Awesome"
+		"text": "fa-search-location",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-search-minus",
-	"sidetext": "Font Awesome"
+		"text": "fa-search-minus",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-search-plus",
-	"sidetext": "Font Awesome"
+		"text": "fa-search-plus",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-share-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-share-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-share-alt-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-share-alt-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-share-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-share-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-shekel-sign",
-	"sidetext": "Font Awesome"
+		"text": "fa-shekel-sign",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-shield-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-shield-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-shipping-fast",
-	"sidetext": "Font Awesome"
+		"text": "fa-shipping-fast",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-shoe-prints",
-	"sidetext": "Font Awesome"
+		"text": "fa-shoe-prints",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-shopping-bag",
-	"sidetext": "Font Awesome"
+		"text": "fa-shopping-bag",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-shopping-basket",
-	"sidetext": "Font Awesome"
+		"text": "fa-shopping-basket",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-shopping-cart",
-	"sidetext": "Font Awesome"
+		"text": "fa-shopping-cart",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-shuttle-van",
-	"sidetext": "Font Awesome"
+		"text": "fa-shuttle-van",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sign-in-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-sign-in-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sign-language",
-	"sidetext": "Font Awesome"
+		"text": "fa-sign-language",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sign-out-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-sign-out-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sliders-h",
-	"sidetext": "Font Awesome"
+		"text": "fa-sliders-h",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-smile-beam",
-	"sidetext": "Font Awesome"
+		"text": "fa-smile-beam",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-smile-wink",
-	"sidetext": "Font Awesome"
+		"text": "fa-smile-wink",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-smoking-ban",
-	"sidetext": "Font Awesome"
+		"text": "fa-smoking-ban",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-solar-panel",
-	"sidetext": "Font Awesome"
+		"text": "fa-solar-panel",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sort-alpha-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-sort-alpha-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sort-alpha-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-sort-alpha-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sort-amount-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-sort-amount-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sort-amount-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-sort-amount-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sort-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-sort-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sort-numeric-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-sort-numeric-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sort-numeric-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-sort-numeric-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sort-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-sort-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-space-shuttle",
-	"sidetext": "Font Awesome"
+		"text": "fa-space-shuttle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-spray-can",
-	"sidetext": "Font Awesome"
+		"text": "fa-spray-can",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-square-full",
-	"sidetext": "Font Awesome"
+		"text": "fa-square-full",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-square-root-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-square-root-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-star-and-crescent",
-	"sidetext": "Font Awesome"
+		"text": "fa-star-and-crescent",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-star-half",
-	"sidetext": "Font Awesome"
+		"text": "fa-star-half",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-star-half-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-star-half-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-star-of-david",
-	"sidetext": "Font Awesome"
+		"text": "fa-star-of-david",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-star-of-life",
-	"sidetext": "Font Awesome"
+		"text": "fa-star-of-life",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-step-backward",
-	"sidetext": "Font Awesome"
+		"text": "fa-step-backward",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-step-forward",
-	"sidetext": "Font Awesome"
+		"text": "fa-step-forward",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sticky-note",
-	"sidetext": "Font Awesome"
+		"text": "fa-sticky-note",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-stop-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-stop-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-store-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-store-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-street-view",
-	"sidetext": "Font Awesome"
+		"text": "fa-street-view",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-suitcase-rolling",
-	"sidetext": "Font Awesome"
+		"text": "fa-suitcase-rolling",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-swimming-pool",
-	"sidetext": "Font Awesome"
+		"text": "fa-swimming-pool",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-sync-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-sync-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-table-tennis",
-	"sidetext": "Font Awesome"
+		"text": "fa-table-tennis",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-tablet-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-tablet-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-tachometer-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-tachometer-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-teeth-open",
-	"sidetext": "Font Awesome"
+		"text": "fa-teeth-open",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-text-height",
-	"sidetext": "Font Awesome"
+		"text": "fa-text-height",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-text-width",
-	"sidetext": "Font Awesome"
+		"text": "fa-text-width",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-th-large",
-	"sidetext": "Font Awesome"
+		"text": "fa-th-large",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-th-list",
-	"sidetext": "Font Awesome"
+		"text": "fa-th-list",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-theater-masks",
-	"sidetext": "Font Awesome"
+		"text": "fa-theater-masks",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-thermometer-empty",
-	"sidetext": "Font Awesome"
+		"text": "fa-thermometer-empty",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-thermometer-full",
-	"sidetext": "Font Awesome"
+		"text": "fa-thermometer-full",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-thermometer-half",
-	"sidetext": "Font Awesome"
+		"text": "fa-thermometer-half",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-thermometer-quarter",
-	"sidetext": "Font Awesome"
+		"text": "fa-thermometer-quarter",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-thermometer-three-quarters",
-	"sidetext": "Font Awesome"
+		"text": "fa-thermometer-three-quarters",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-thumbs-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-thumbs-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-thumbs-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-thumbs-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-ticket-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-ticket-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-times-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-times-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-tint-slash",
-	"sidetext": "Font Awesome"
+		"text": "fa-tint-slash",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-toggle-off",
-	"sidetext": "Font Awesome"
+		"text": "fa-toggle-off",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-toggle-on",
-	"sidetext": "Font Awesome"
+		"text": "fa-toggle-on",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-torii-gate",
-	"sidetext": "Font Awesome"
+		"text": "fa-torii-gate",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-traffic-light",
-	"sidetext": "Font Awesome"
+		"text": "fa-traffic-light",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-transgender-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-transgender-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-trash-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-trash-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-truck-loading",
-	"sidetext": "Font Awesome"
+		"text": "fa-truck-loading",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-truck-monster",
-	"sidetext": "Font Awesome"
+		"text": "fa-truck-monster",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-truck-moving",
-	"sidetext": "Font Awesome"
+		"text": "fa-truck-moving",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-truck-pickup",
-	"sidetext": "Font Awesome"
+		"text": "fa-truck-pickup",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-umbrella-beach",
-	"sidetext": "Font Awesome"
+		"text": "fa-umbrella-beach",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-undo-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-undo-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-universal-access",
-	"sidetext": "Font Awesome"
+		"text": "fa-universal-access",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-unlock-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-unlock-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-alt-slash",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-alt-slash",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-astronaut",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-astronaut",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-check",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-check",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-circle",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-circle",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-clock",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-clock",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-cog",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-cog",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-edit",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-edit",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-friends",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-friends",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-graduate",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-graduate",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-lock",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-lock",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-md",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-md",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-minus",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-minus",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-ninja",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-ninja",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-plus",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-plus",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-secret",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-secret",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-shield",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-shield",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-slash",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-slash",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-tag",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-tag",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-tie",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-tie",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-user-times",
-	"sidetext": "Font Awesome"
+		"text": "fa-user-times",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-users-cog",
-	"sidetext": "Font Awesome"
+		"text": "fa-users-cog",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-utensil-spoon",
-	"sidetext": "Font Awesome"
+		"text": "fa-utensil-spoon",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-vector-square",
-	"sidetext": "Font Awesome"
+		"text": "fa-vector-square",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-venus-double",
-	"sidetext": "Font Awesome"
+		"text": "fa-venus-double",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-venus-mars",
-	"sidetext": "Font Awesome"
+		"text": "fa-venus-mars",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-video-slash",
-	"sidetext": "Font Awesome"
+		"text": "fa-video-slash",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-volleyball-ball",
-	"sidetext": "Font Awesome"
+		"text": "fa-volleyball-ball",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-volume-down",
-	"sidetext": "Font Awesome"
+		"text": "fa-volume-down",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-volume-off",
-	"sidetext": "Font Awesome"
+		"text": "fa-volume-off",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-volume-up",
-	"sidetext": "Font Awesome"
+		"text": "fa-volume-up",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-weight-hanging",
-	"sidetext": "Font Awesome"
+		"text": "fa-weight-hanging",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-window-close",
-	"sidetext": "Font Awesome"
+		"text": "fa-window-close",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-window-maximize",
-	"sidetext": "Font Awesome"
+		"text": "fa-window-maximize",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-window-minimize",
-	"sidetext": "Font Awesome"
+		"text": "fa-window-minimize",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-window-restore",
-	"sidetext": "Font Awesome"
+		"text": "fa-window-restore",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-wine-glass",
-	"sidetext": "Font Awesome"
+		"text": "fa-wine-glass",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-wine-glass-alt",
-	"sidetext": "Font Awesome"
+		"text": "fa-wine-glass-alt",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-won-sign",
-	"sidetext": "Font Awesome"
+		"text": "fa-won-sign",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-x-ray",
-	"sidetext": "Font Awesome"
+		"text": "fa-x-ray",
+		"sidetext": "Font Awesome"
 	},
 	{
-	"text": "fa-yen-sign",
-	"sidetext": "Font Awesome"
-	},
+		"text": "fa-yen-sign",
+		"sidetext": "Font Awesome"
+	}
 ]
