@@ -1,0 +1,3023 @@
+[
+	{
+		"text": "bulma.css",
+		"sidetext": "Bulma"
+	}
+	{
+		"text": "bulma.min.css",
+		"sidetext": "Bulma"
+	}
+	{
+		"text": "block",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "box",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "breadcrumb",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "button",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "buttons",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "card",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "card-content",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "card-footer",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "card-footer-item",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "card-header",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "card-header-icon",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "card-header-title",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "card-image",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "checkbox",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "column",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "columns",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "container",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "content",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "control",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "delete",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "dropdown",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "dropdown-content",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "dropdown-divider",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "dropdown-item",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "dropdown-menu",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "fa",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "field",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "field-body",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "field-label",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "file",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "file-cta",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "file-icon",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "file-input",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "file-label",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "file-name",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "footer",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-addons",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-addons-centered",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-addons-fullwidth",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-addons-right",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-arrow-separator",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-black",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-black-bis",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-black-ter",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-danger",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-dark",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-grey",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-grey-dark",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-grey-darker",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-grey-light",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-grey-lighter",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-info",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-light",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-link",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-primary",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-success",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-warning",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-white",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-white-bis",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-background-white-ter",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-bullet-separator",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-dot-separator",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-dropdown",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-dropdown-up",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-fixed-size",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-icon",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-icon-right",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-icons-left",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-icons-right",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-name",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-shadow",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-succeeds-separator",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-black",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-black-bis",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-black-ter",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-centered",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-centered-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-centered-desktop-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-centered-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-centered-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-centered-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-centered-tablet-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-centered-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-centered-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-centered-widescreen-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-danger",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-dark",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-grey",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-grey-dark",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-grey-darker",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-grey-light",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-grey-lighter",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-info",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-justified",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-justified-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-justified-desktop-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-justified-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-justified-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-justified-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-justified-tablet-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-justified-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-justified-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-justified-widescreen-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-left",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-left-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-left-desktop-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-left-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-left-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-left-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-left-tablet-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-left-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-left-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-left-widescreen-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-light",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-link",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-primary",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-right",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-right-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-right-desktop-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-right-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-right-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-right-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-right-tablet-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-right-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-right-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-right-widescreen-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-success",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-warning",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-weight-bold",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-weight-light",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-weight-normal",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-weight-semibold",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-white",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-white-bis",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "has-text-white-ter",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "heading",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "help",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "hero",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "hero-body",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "hero-buttons",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "hero-foot",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "hero-head",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "hero-video",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "highlight",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "icon",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "image",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "input",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-0",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-1",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-1-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-1-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-1-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-1-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-1-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-1-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-10",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-10-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-10-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-10-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-10-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-10-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-10-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-11",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-11-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-11-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-11-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-11-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-11-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-11-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-12",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-12-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-12-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-12-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-12-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-12-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-12-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-128x128",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-16by9",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-16x16",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-1by1",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-1by2",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-1by3",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-2",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-2-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-2-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-2-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-2-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-2-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-2-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-24x24",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-2by1",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-2by3",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-3",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-3-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-3-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-3-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-3-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-3-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-3-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-32x32",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-3by1",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-3by2",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-3by4",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-3by5",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-4",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-4-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-4-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-4-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-4-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-4-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-4-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-48x48",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-4by3",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-4by5",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-5",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-5-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-5-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-5-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-5-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-5-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-5-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-5by3",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-5by4",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-6",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-6-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-6-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-6-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-6-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-6-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-6-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-64x64",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-7",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-7-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-7-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-7-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-7-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-7-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-7-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-8",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-8-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-8-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-8-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-8-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-8-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-8-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-9",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-9-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-9-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-9-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-9-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-9-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-9-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-96x96",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-9by16",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-active",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-ancestor",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-black",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-block",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-block-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-block-desktop-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-block-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-block-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-block-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-block-tablet-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-block-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-block-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-block-widescreen-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-bold",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-bordered",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-boxed",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-capitalized",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-center",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-centered",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-child",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-clearfix",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-clipped",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-current",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-danger",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-dark",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-delete",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-disabled",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-empty",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-expanded",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-fixed-bottom",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-fixed-bottom-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-fixed-bottom-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-fixed-top",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-fixed-top-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-fixed-top-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-flex",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-flex-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-flex-desktop-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-flex-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-flex-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-flex-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-flex-tablet-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-flex-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-flex-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-flex-widescreen-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-flexible",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-fluid",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-focused",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-four-fifths",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-four-fifths-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-four-fifths-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-four-fifths-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-four-fifths-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-four-fifths-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-four-fifths-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-full",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-full-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-full-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-full-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-full-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-full-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-full-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-fullheight",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-fullwidth",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-gapless",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-grouped",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-grouped-centered",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-grouped-multiline",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-grouped-right",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-half",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-half-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-half-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-half-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-half-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-half-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-half-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-halfheight",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-hidden",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-hidden-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-hidden-desktop-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-hidden-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-hidden-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-hidden-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-hidden-tablet-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-hidden-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-hidden-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-hidden-widescreen-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-horizontal",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-hoverable",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-hovered",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-info",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-block",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-block-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-block-desktop-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-block-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-block-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-block-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-block-tablet-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-block-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-block-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-block-widescreen-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-desktop-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-flex",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-flex-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-flex-desktop-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-flex-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-flex-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-flex-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-flex-tablet-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-flex-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-flex-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-flex-widescreen-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-tablet-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inline-widescreen-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-inverted",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-invisible",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-invisible-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-invisible-desktop-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-invisible-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-invisible-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-invisible-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-invisible-tablet-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-invisible-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-invisible-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-invisible-widescreen-only",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-italic",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-large",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-large~",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-left",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-light",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-link",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-loading",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-lowercase",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-marginless",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-medium",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-medium~",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-multiline",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-multiple",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-narrow",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-narrow-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-narrow-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-narrow-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-narrow-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-narrow-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-narrow-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-normal",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-1",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-1-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-1-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-1-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-1-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-1-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-1-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-10",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-10-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-10-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-10-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-10-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-10-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-10-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-11",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-11-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-11-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-11-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-11-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-11-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-11-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-12",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-12-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-12-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-12-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-12-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-12-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-12-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-2",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-2-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-2-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-2-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-2-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-2-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-2-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-3",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-3-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-3-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-3-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-3-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-3-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-3-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-4",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-4-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-4-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-4-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-4-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-4-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-4-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-5",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-5-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-5-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-5-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-5-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-5-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-5-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-6",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-6-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-6-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-6-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-6-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-6-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-6-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-7",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-7-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-7-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-7-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-7-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-7-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-7-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-8",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-8-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-8-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-8-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-8-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-8-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-8-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-9",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-9-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-9-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-9-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-9-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-9-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-9-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-four-fifths",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-four-fifths-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-four-fifths-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-four-fifths-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-four-fifths-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-four-fifths-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-four-fifths-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-half",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-half-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-half-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-half-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-half-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-half-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-half-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-fifth",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-fifth-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-fifth-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-fifth-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-fifth-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-fifth-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-fifth-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-quarter",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-quarter-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-quarter-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-quarter-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-quarter-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-quarter-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-quarter-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-third",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-third-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-third-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-third-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-third-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-third-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-one-third-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-three-fifths",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-three-fifths-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-three-fifths-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-three-fifths-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-three-fifths-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-three-fifths-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-three-fifths-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-three-quarters",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-three-quarters-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-three-quarters-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-three-quarters-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-three-quarters-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-three-quarters-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-three-quarters-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-two-fifths",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-two-fifths-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-two-fifths-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-two-fifths-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-two-fifths-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-two-fifths-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-two-fifths-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-two-thirds",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-two-thirds-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-two-thirds-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-two-thirds-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-two-thirds-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-two-thirds-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-offset-two-thirds-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-fifth",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-fifth-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-fifth-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-fifth-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-fifth-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-fifth-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-fifth-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-quarter",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-quarter-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-quarter-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-quarter-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-quarter-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-quarter-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-quarter-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-third",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-third-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-third-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-third-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-third-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-third-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-one-third-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-outlined",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-overlay",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-paddingless",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-parent",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-primary",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-pulled-left",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-pulled-right",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-radiusless",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-right",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-rounded",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-selected",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-shadowless",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-1",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-1-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-1-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-1-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-1-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-1-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-1-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-2",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-2-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-2-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-2-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-2-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-2-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-2-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-3",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-3-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-3-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-3-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-3-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-3-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-3-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-4",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-4-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-4-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-4-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-4-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-4-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-4-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-5",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-5-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-5-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-5-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-5-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-5-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-5-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-6",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-6-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-6-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-6-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-6-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-6-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-6-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-7",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-7-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-7-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-7-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-7-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-7-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-size-7-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-small",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-small~",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-spaced",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-square",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-static",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-striped",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-success",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-tab",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-text",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-three-fifths",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-three-fifths-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-three-fifths-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-three-fifths-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-three-fifths-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-three-fifths-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-three-fifths-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-three-quarters",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-three-quarters-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-three-quarters-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-three-quarters-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-three-quarters-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-three-quarters-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-three-quarters-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-toggle",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-toggle-rounded",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-transparent",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-two-fifths",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-two-fifths-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-two-fifths-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-two-fifths-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-two-fifths-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-two-fifths-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-two-fifths-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-two-thirds",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-two-thirds-desktop",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-two-thirds-fullhd",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-two-thirds-mobile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-two-thirds-tablet",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-two-thirds-touch",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-two-thirds-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-unselectable",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-up",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-uppercase",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-variable",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-vcentered",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-vertical",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-warning",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-white",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-widescreen",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "is-wrapped",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "label",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "level",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "level-item",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "level-left",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "level-right",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "loader",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "media",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "media-content",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "media-left",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "media-right",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "menu",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "menu-label",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "menu-list",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "message",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "message-body",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "message-header",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "modal",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "modal-background",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "modal-card",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "modal-card-body",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "modal-card-foot",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "modal-card-head",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "modal-card-title",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "modal-close",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "modal-content",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "navbar",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "navbar-brand",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "navbar-burger",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "navbar-content",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "navbar-divider",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "navbar-dropdown",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "navbar-end",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "navbar-item",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "navbar-link",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "navbar-menu",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "navbar-start",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "navbar-tabs",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "notification",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "number",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "pagination",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "pagination-ellipsis",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "pagination-link",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "pagination-list",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "pagination-next",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "pagination-previous",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "panel",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "panel-block",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "panel-heading",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "panel-icon",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "panel-list",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "panel-tabs",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "progress",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "radio",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "section",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "select",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "subtitle",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "table",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "table-container",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "tabs",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "tag",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "tags",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "textarea",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "tile",
+		"sidetext": "Bulma"
+	},
+	{
+		"text": "title",
+		"sidetext": "Bulma"
+	}
+
+]
