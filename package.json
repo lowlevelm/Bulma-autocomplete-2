@@ -1,15 +1,15 @@
 {
-  "name": "autocomplete-boilerplate",
+  "name": "Bulma-Autocomplete-2",
   "main": "./lib/main",
-  "version": "0.2.0",
-  "description": "Boilerplate package for creating your own custom autocomplete provider for Atom.",
+  "version": "1.0.0",
+  "description": "An Atom module to improve your Bulma workflow.",
   "keywords": [
     "autocomplete",
-    "provider",
-    "boilerplate"
+    "bulma",
+    "css"
   ],
-  "repository": "https://github.com/lonekorean/atom-autocomplete-boilerplate",
-  "author": "Will Boyd <will@codersblock.com> (http://codersblock.com)",
+  "repository": "https://github.com/Medeola/Bulma-autocomplete-2",
+  "author": "Medeola, M",
   "license": "MIT",
   "engines": {
     "atom": ">=1.15.0 <2.0.0"
