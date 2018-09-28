@@ -1,7 +1,7 @@
 {
   "name": "Bulma-Autocomplete-2",
   "main": "./lib/main",
-  "version": "1.2.0",
+  "version": "1.1.0",
   "description": "An Atom module to improve your Bulma workflow.",
   "keywords": [
     "autocomplete",
@@ -10,7 +10,7 @@
     "html"
   ],
   "repository": "https://github.com/lowlevelm/Bulma-autocomplete-2",
-  "author": "Low Level M",
+  "author": "lowlevelm",
   "license": "MIT",
   "engines": {
     "atom": ">=1.15.0 <2.0.0"
