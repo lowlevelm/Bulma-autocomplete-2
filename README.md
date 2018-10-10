@@ -1,5 +1,5 @@
 # Bulma-autocomplete-2 v1.2.0
-An Atom module to improve your Bulma workflow. Now with vue.js support!
+An Atom package to improve your Bulma workflow.
 
 ![bulma](https://github.com/Medeola/Bulma-autocomplete-2/blob/master/header.png?raw=true)
 
@@ -7,9 +7,8 @@ An Atom module to improve your Bulma workflow. Now with vue.js support!
 Install by running ```$ apm install bulma-autocomplete-2``` in bash,
 or by typing ```bulma-autocomplete-2``` in atom's install dialog.
 
-please note: if you would like to use the vue.js functionality,
-you will need to get an external program for vue support.
+### notes
 
-Please note that some users may have problems with the autocomplete
-functionality if the dash symbol is included in your non
-word characters list.
+- if you would like to use the vue.js functionality, you will need to get a seperate package for vue support. this package is tested to work with ``https://atom.io/packages/language-vue``
+
+- you **will** have problems with the autocomplete functionality if the dash symbol is included in your non word characters list.
