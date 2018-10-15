@@ -1,4 +1,4 @@
-FORMAT = False #add json around the class
+FORMAT = True #add json around the class
 x = [] #the two lists we use to store the css classes
 a = []
 BANNED = [ #helps remove anything that isn't a class
