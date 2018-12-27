@@ -1,4 +1,4 @@
-# Bulma-autocomplete-2 v1.2.2
+# Bulma-autocomplete-2
 An Atom package to improve your Bulma workflow.
 
 # Installing
