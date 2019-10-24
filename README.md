@@ -1,6 +1,6 @@
 # Bulma-autocomplete-2
 An Atom package to improve your Bulma workflow.
-Updated for 0.7.5
+Updated for 0.8.0
 
 # Installing
 Install by running ```$ apm install bulma-autocomplete-2``` in bash,
