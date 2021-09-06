@@ -11,3 +11,4 @@ or by typing ```bulma-autocomplete-2``` in atom's install dialog.
 - If you would like to use the vue.js functionality, you will need to get a seperate package for vue support. This package is tested to work with ``https://atom.io/packages/language-vue``
 
 - You will have problems with the autocomplete functionality if the dash symbol is included in your non word characters list.
+- TODO: automate updates to code
